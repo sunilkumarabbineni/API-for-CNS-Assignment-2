@@ -1,0 +1,23 @@
+# Flask for creating the web application
+Flask
+
+# Hugging Face transformers library for working with various NLP models
+transformers
+
+# Hugging Face hub library for accessing models and inference APIs
+huggingface_hub
+
+# Requests library for making HTTP requests (used to fetch images from URLs)
+requests
+
+# Pillow library for image processing and opening images
+Pillow
+
+# PyTorch is required for transformer models (such as BERT and ViT)
+torch
+
+#psutil
+psutil
+
+# For fine tuning
+datasets

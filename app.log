@@ -1,0 +1,165 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5004
+ * Running on http://192.168.1.102:5004
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 599-670-927
+INFO:root:Total requests so far: 1
+INFO:root:CPU usage: 0.0% | Memory usage: 84.1%
+INFO:root:/summarize latency: 31.71 seconds
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2024 07:55:44] "POST /summarize HTTP/1.1" 200 -
+INFO:root:Total requests so far: 2
+INFO:root:CPU usage: 0.0% | Memory usage: 92.8%
+INFO:root:/sentiment latency: 1.46 seconds
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2024 07:56:44] "POST /sentiment HTTP/1.1" 200 -
+INFO:root:Total requests so far: 3
+INFO:root:CPU usage: 0.0% | Memory usage: 89.5%
+INFO:root:/extract_entities latency: 1.87 seconds
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2024 07:56:55] "POST /extract_entities HTTP/1.1" 200 -
+INFO:root:Total requests so far: 4
+INFO:root:CPU usage: 0.0% | Memory usage: 95.0%
+INFO:root:/classify_image latency: 3.88 seconds
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2024 07:57:15] "POST /classify_image HTTP/1.1" 200 -
+INFO:root:Total requests so far: 5
+INFO:root:CPU usage: 0.0% | Memory usage: 96.5%
+INFO:root:/chat latency: 7.76 seconds
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2024 07:57:47] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5004
+ * Running on http://192.168.1.102:5004
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 599-670-927
+INFO:root:Total requests so far: 1
+INFO:root:CPU usage: 0.0% | Memory usage: 62.4%
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2024 17:20:43] "POST /predict HTTP/1.1" 200 -
+INFO:root:Total requests so far: 2
+INFO:root:CPU usage: 0.0% | Memory usage: 62.2%
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2024 17:21:05] "POST /predict HTTP/1.1" 200 -
+INFO:root:Total requests so far: 3
+INFO:root:CPU usage: 0.0% | Memory usage: 62.2%
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2024 17:21:16] "POST /predict HTTP/1.1" 200 -
+INFO:root:Total requests so far: 4
+INFO:root:CPU usage: 0.0% | Memory usage: 62.0%
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2024 17:21:26] "POST /predict HTTP/1.1" 200 -
+INFO:root:Total requests so far: 5
+INFO:root:CPU usage: 0.0% | Memory usage: 62.7%
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2024 17:21:56] "POST /predict HTTP/1.1" 200 -
+INFO:root:Total requests so far: 6
+INFO:root:CPU usage: 0.0% | Memory usage: 61.4%
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2024 17:22:43] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\projects\\Python\\api-assignment2-healthcare\\model_fine_tune_sm.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5004
+ * Running on http://192.168.1.102:5004
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 599-670-927
+INFO:root:Total requests so far: 1
+INFO:root:CPU usage: 0.0% | Memory usage: 62.3%
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2024 17:27:09] "POST /predict HTTP/1.1" 200 -
+INFO:root:Total requests so far: 2
+INFO:root:CPU usage: 0.0% | Memory usage: 60.3%
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2024 17:27:46] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5004
+ * Running on http://192.168.1.102:5004
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 599-670-927
+INFO:root:Total requests so far: 1
+INFO:root:CPU usage: 0.0% | Memory usage: 60.3%
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2024 17:37:35] "POST /predict HTTP/1.1" 200 -
+INFO:root:Total requests so far: 2
+INFO:root:CPU usage: 0.0% | Memory usage: 61.4%
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2024 17:38:06] "POST /predict HTTP/1.1" 200 -
+INFO:root:Total requests so far: 3
+INFO:root:CPU usage: 0.0% | Memory usage: 61.8%
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2024 17:38:30] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\projects\\Python\\api-assignment2-healthcare\\dataset-to-local-sm.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 599-670-927
+INFO:werkzeug: * Detected change in 'D:\\projects\\Python\\api-assignment2-healthcare\\dataset-to-local-sm.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 599-670-927
+INFO:werkzeug: * Detected change in 'D:\\projects\\Python\\api-assignment2-healthcare\\dataset-to-local-sm.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5004
+ * Running on http://192.168.1.102:5004
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 599-670-927
+INFO:root:Total requests so far: 1
+INFO:root:CPU usage: 0.0% | Memory usage: 68.5%
+INFO:root:/predict_disease latency: 0.25 seconds
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2024 18:34:39] "POST /predict_disease HTTP/1.1" 200 -
+INFO:root:Total requests so far: 2
+INFO:root:CPU usage: 0.0% | Memory usage: 69.4%
+INFO:root:/predict_disease latency: 0.01 seconds
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2024 18:34:53] "POST /predict_disease HTTP/1.1" 200 -
+INFO:root:Total requests so far: 3
+INFO:root:CPU usage: 0.0% | Memory usage: 69.7%
+INFO:root:/predict_disease latency: 0.02 seconds
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2024 18:35:04] "POST /predict_disease HTTP/1.1" 200 -
+INFO:root:Total requests so far: 4
+INFO:root:CPU usage: 0.0% | Memory usage: 68.5%
+INFO:root:/predict_disease latency: 0.03 seconds
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2024 18:35:32] "POST /predict_disease HTTP/1.1" 200 -
+INFO:root:Total requests so far: 5
+INFO:root:CPU usage: 0.0% | Memory usage: 68.6%
+INFO:root:/predict_disease latency: 0.04 seconds
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2024 18:35:44] "POST /predict_disease HTTP/1.1" 200 -
+INFO:root:Total requests so far: 6
+INFO:root:CPU usage: 0.0% | Memory usage: 68.2%
+INFO:root:/predict_disease latency: 0.02 seconds
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2024 18:35:52] "POST /predict_disease HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\projects\\Python\\api-assignment2-healthcare\\main copy.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 599-670-927
+INFO:werkzeug: * Detected change in 'D:\\projects\\Python\\api-assignment2-healthcare\\model_fine_tune.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 599-670-927
+INFO:root:Total requests so far: 1
+INFO:root:CPU usage: 0.0% | Memory usage: 74.0%
+INFO:root:/summarize latency: 36.38 seconds
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2024 20:12:29] "POST /summarize HTTP/1.1" 200 -
+INFO:root:Total requests so far: 2
+INFO:root:CPU usage: 0.0% | Memory usage: 80.5%
+INFO:root:/ask_question latency: 2.22 seconds
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2024 20:14:38] "POST /ask_question HTTP/1.1" 200 -
+INFO:root:Total requests so far: 3
+INFO:root:CPU usage: 0.0% | Memory usage: 78.4%
+INFO:root:/ask_question latency: 0.38 seconds
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2024 20:14:52] "POST /ask_question HTTP/1.1" 200 -
+INFO:root:Total requests so far: 4
+INFO:root:CPU usage: 0.0% | Memory usage: 77.5%
+INFO:root:/classify_image latency: 3.64 seconds
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2024 20:16:09] "POST /classify_image HTTP/1.1" 200 -
+INFO:root:Total requests so far: 5
+INFO:root:CPU usage: 0.0% | Memory usage: 80.1%
+INFO:root:/extract_entities latency: 1.68 seconds
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2024 20:17:16] "POST /extract_entities HTTP/1.1" 200 -
+INFO:root:Total requests so far: 6
+INFO:root:CPU usage: 0.0% | Memory usage: 86.1%
+INFO:root:/sentiment latency: 0.27 seconds
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2024 20:18:06] "POST /sentiment HTTP/1.1" 200 -
+INFO:root:Total requests so far: 7
+INFO:root:CPU usage: 0.0% | Memory usage: 87.5%
+INFO:root:/chat latency: 6.45 seconds
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2024 20:19:08] "POST /chat HTTP/1.1" 200 -
